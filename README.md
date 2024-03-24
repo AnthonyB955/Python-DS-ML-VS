@@ -12,7 +12,7 @@ These are labs for learning Python for Data Analytics, Machine Learning and Visu
 ### Python Intro
 
 * [Types](python-intro/types/readme.md)
-* [Data Structures](python-intro/02-data-structures.ipynb)
+* [Data Structures](python-intro/data-structures/readme.md)
 * [Conditionals](python-intro/03-conditionals.ipynb)
 * [loops](python-intro/04-loops.ipynb)
 * [Comprehensions](python-intro/05-comprehensions.ipynb)
