@@ -1,7 +1,5 @@
 # Python Data Analytics, Machine Learning and visualization
 
-## Overview
-
 These are labs for learning Python for Data Analytics, Machine Learning and Visualization.
 
 ## Lab Environment
