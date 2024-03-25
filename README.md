@@ -16,7 +16,7 @@ These are labs for learning Python for Data Analytics, Machine Learning and Visu
 * [Conditionals](python-intro/conditionals/readme.md)
 * [loops](python-intro/loops/readme.md)
 * [Comprehensions](python-intro/comprehensions/readme.md)
-* [Functions](python-intro/comprehensions/readme.md)
+* [Functions](python-intro/functions/readme.md)
 * [Strings](python-intro/07-string.ipynb)
 
 **Exercises**
