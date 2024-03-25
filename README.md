@@ -18,6 +18,7 @@ These are labs for learning Python for Data Analytics, Machine Learning and Visu
 * [Comprehensions](python-intro/comprehensions/readme.md)
 * [Functions](python-intro/functions/readme.md)
 * [Strings](python-intro/string/readme.md)
+* [File IO](python-intro/fileio/readme.md)
 
 **Exercises**
 
