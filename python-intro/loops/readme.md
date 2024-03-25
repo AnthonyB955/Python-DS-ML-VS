@@ -6,6 +6,11 @@ Learn about loops in Python, including `for` loops and `while` loops. Understand
 ## Introduction
 Loops are essential in programming for executing a block of code repeatedly. Python provides two main types of loops: `for` loops and `while` loops.
 
+## Time to Complete
+
+30 minutes
+
+
 ## 1 - For Loop
 
 - The `for` loop iterates over a sequence of values.

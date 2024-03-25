@@ -7,7 +7,7 @@ programming languages due to its readability and simplicity. By the end of this 
 
 ## Time to Complete
 
-60 minutes
+30 minutes
 
 ## Introduction
 
