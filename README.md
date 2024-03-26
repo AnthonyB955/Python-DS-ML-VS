@@ -21,6 +21,7 @@ These are labs for learning Python for Data Analytics, Machine Learning and Visu
 * [File IO](python-intro/fileio/readme.md)
 * [OOP](python-intro/oop/readme.md)
 * [Threads](python-intro/thread/readme.md)
+* [Packages](python-intro/packages/readme.md)
 * [Web](python-intro/web/readme.md)
 
 
